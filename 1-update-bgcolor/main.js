@@ -2,14 +2,12 @@ const body = document.body;
 const btnToggle = document.getElementById('btn-toggle');
 
 let currentHue = 0;
-let currentSaturation = 0;
 let intervalID;
 let isRunning = false;
 
 function changeBgColor() {
   body.style.background = `hsl(${currentHue}, 100%, 50%)`;
   currentHue = (currentHue + 1) % 360;
-  currentSaturation = (currentSaturation + 1) % 100
 };
 
 function toggleAnimation() {
