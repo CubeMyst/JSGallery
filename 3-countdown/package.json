@@ -1,0 +1,17 @@
+{
+  "name": "CountDown",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Mostrar el tiempo que queda hasta tu cumpleaños",
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "4.5.0"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.0"
+  }
+}
