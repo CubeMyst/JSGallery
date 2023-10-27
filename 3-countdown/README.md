@@ -1,5 +1,7 @@
 # project 3 - CountDown birthday
 
+![](./screenshot.png)
+
 Mostrar el tiempo que queda hasta tu cumpleaños
 
 ## Requisitos:
