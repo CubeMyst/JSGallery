@@ -1,5 +1,7 @@
 # proyecto 1 - Change BgColor
 
+![](screenshot.png)
+
 Actualizar el fondo de color de una web.
 
 ## Requisitos:
