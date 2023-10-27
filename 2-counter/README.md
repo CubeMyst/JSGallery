@@ -1,5 +1,7 @@
 # Proyecto 2 - Counter
 
+![](screenshot.png)
+
 Añadir y quitar una unidad con un botón.
 
 ## Requisitos:
