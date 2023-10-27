@@ -1,5 +1,7 @@
 # Project 4 - Lorem ipsum Generator
 
+![](screenshot.png)
+
 Selecciona el número de párrafos o palabras y genera el lorem ipsum.
 
 ## Requisitos:
