@@ -1,6 +1,8 @@
+# project 3 - CountDown birthday
+
 Mostrar el tiempo que queda hasta tu cumpleaños
 
-Requisitos
+## Requisitos:
 
 - [x] Solo con segundos
 - [x] Con segundos, minutos, horas 
